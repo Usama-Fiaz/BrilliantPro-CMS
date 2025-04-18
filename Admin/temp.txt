@@ -1,0 +1,88 @@
+npm install @fullcalendar/bootstrap@latest
+npm install @fullcalendar/core@latest
+npm install @fullcalendar/daygrid@latest
+npm install @fullcalendar/interaction@latest
+npm install @fullcalendar/list@latest
+npm install @fullcalendar/react@latest
+npm install @lourenci/react-kanban@latest
+npm install @testing-library/jest-dom@latest
+npm install @testing-library/react@latest
+npm install @testing-library/user-event@latest
+npm install @toast-ui/react-chart@latest
+npm install @vtaits/react-color-picker@latest
+npm install apexcharts@latest
+npm install availity-reactstrap-validation@latest
+npm install axios@latest
+npm install axios-mock-adapter@latest
+npm install bootstrap@latest --force
+npm install chart.js@latest --force
+npm install chartist@latest --force
+npm install classnames@latest --force
+npm install dotenv@latest --force
+npm install draft-js@latest --force
+npm install echarts@latest --force
+npm install echarts-for-react@latest --force
+npm install firebase@latest --force
+npm install google-maps-react@latest --force
+npm install i18next@latest --force
+npm install i18next-browser-languagedetector@latest --force
+npm install jsonwebtoken@latest --force
+npm install leaflet@latest --force
+npm install lodash@latest --force
+npm install lodash.clonedeep@latest --force
+npm install mdbreact@latest --force
+npm install metismenujs@latest --force
+npm install mkdirp@latest --force
+npm install moment@latest --force
+npm install moment-timezone@latest --force
+npm install node-sass@latest --force
+npm install nouislider-react@latest --force
+npm install prop-types@latest --force
+npm install react@latest --force
+npm install react-apexcharts@latest --force
+npm install react-auth-code-input@latest --force
+npm install react-bootstrap-editable@latest --force
+npm install react-bootstrap-sweetalert@latest --force
+npm install react-bootstrap-table-next@latest --force
+npm install react-bootstrap-table2-editor@latest --force
+npm install react-bootstrap-table2-paginator@latest --force
+npm install react-bootstrap-table2-toolkit@latest --force
+npm install react-c3js@latest --force
+npm install react-chartist@latest --force
+npm install react-chartjs-2@latest --force
+npm install react-color@latest --force
+npm install react-countdown@latest --force
+npm install react-date-picker@latest --force
+npm install react-datepicker@latest --force
+npm install react-dom@latest --force
+npm install react-draft-wysiwyg@latest --force
+npm install react-dropzone@latest --force
+npm install react-flatpickr@latest --force
+npm install react-i18next@latest --force
+npm install react-image-lightbox@latest --force
+npm install react-input-mask@latest --force
+npm install react-jvectormap@latest --force
+npm install react-leaflet@latest --force
+npm install react-meta-tags@latest --force
+npm install react-modal-video@latest --force
+npm install react-rangeslider@latest --force
+npm install react-rating@latest --force
+npm install react-rating-tooltip@latest --force
+npm install react-redux@latest --force
+npm install react-responsive-carousel@latest --force
+npm install react-router-dom@latest --force
+npm install react-script@latest --force
+npm install react-scripts@latest --force
+npm install react-select@latest --force
+npm install react-sparklines@latest --force
+npm install react-super-responsive-table@latest --force
+npm install react-switch@latest --force
+npm install react-toastr@latest --force
+npm install react-twitter-auth@latest --force
+npm install reactstrap@latest --force
+npm install redux@latest --force
+npm install redux-form@latest --force
+npm install redux-saga@latest --force
+npm install simplebar-react@latest --force
+npm install styled-components@latest --force
+npm install toastr@latest --force
