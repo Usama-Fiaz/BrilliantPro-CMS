@@ -1,6 +1,19 @@
 # Learning Management System (LMS)
 
-A comprehensive Learning Management System with separate Admin and Learner dashboards, built with modern web technologies.
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)](https://jwt.io/)
+
+> 🎓 A modern Learning Management System built with the MERN stack, featuring separate Admin and Learner dashboards, comprehensive course management, and interactive learning experiences.
+
+### Key Features
+- 👨‍💼 Comprehensive Admin Dashboard
+- 👨‍🎓 Interactive Learner Interface
+- 📚 Rich Course Management
+- 📊 Progress Analytics
+- 🔐 Secure Authentication
 
 ## 🌟 Overview
 
