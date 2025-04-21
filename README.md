@@ -8,7 +8,7 @@ This LMS is a full-featured educational platform that enables efficient manageme
 
 ## 🏗️ System Architecture
 
-![LMS System Architecture](https://i.imgur.com/YOUR_IMAGE_ID_HERE.png)
+![LMS System Architecture](./Architecture-Diagram.png)
 
 The system architecture follows a modern, scalable design with the following key components:
 
