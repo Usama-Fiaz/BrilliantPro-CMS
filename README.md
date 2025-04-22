@@ -46,7 +46,7 @@ The system architecture follows a modern, scalable design with the following key
 - Design and schedule assessments
 - Monitor student progress
 - Generate performance reports
-- Manage student enrollments
+- Manage student enrollments.
 
 #### Content Management
 - Support multiple content formats:
